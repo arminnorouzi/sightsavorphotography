@@ -14,7 +14,7 @@ header:
   subtitle: "by Sight Savor"
 footer:
   name: "Hey there, my name is Ram"
-  bio: ""Sight Savor Photography, established by Armin and Sara, two tech-savvy enthusiasts with a flair for immortalizing the world's splendor, marries cutting-edge technology with the timeless art of photography. Armin, an engineering Ph.D. graduate and a Machine Learning Engineer, brings precision and a keen eye for detail, capturing moments with a creative edge. Sara, with her Master's in Software Engineering and experience at Google, adds her quick reflexes for capturing nature's spontaneous beauty. Together, they transform every shot into a tech-inspired visual story, teaching the art of seeing the world through a unique, technologically-enriched lens."
+  bio: "Sight Savor Photography, established by Armin and Sara, two tech-savvy enthusiasts with a flair for immortalizing the world's splendor, marries cutting-edge technology with the timeless art of photography. Armin, an engineering Ph.D. graduate and a Machine Learning Engineer, brings precision and a keen eye for detail, capturing moments with a creative edge. Sara, with her Master's in Software Engineering and experience at Google, adds her quick reflexes for capturing nature's spontaneous beauty. Together, they transform every shot into a tech-inspired visual story, teaching the art of seeing the world through a unique, technologically-enriched lens."
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
